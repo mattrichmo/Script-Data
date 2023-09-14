@@ -1,0 +1,6 @@
+---
+Title: Scary Movie 2
+Writers: Shawn Wayans, Marlon Wayans
+Genres: Comedy, Horror, Sci-Fi
+---
+

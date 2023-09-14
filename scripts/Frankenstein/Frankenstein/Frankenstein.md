@@ -1,0 +1,6 @@
+---
+Title: Frankenstein
+Writers: Steph Lady, Frank Darabont
+Genres: Drama, Fantasy, Horror, Romance, Sci-Fi
+---
+
